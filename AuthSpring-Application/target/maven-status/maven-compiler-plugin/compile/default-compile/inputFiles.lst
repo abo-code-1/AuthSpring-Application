@@ -1,0 +1,14 @@
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/AuthSpringApplication.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/config/ApplicationConfig.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/config/JwtAuthenticationFilter.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/config/SecurityConfiguration.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/controllers/AuthController.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/controllers/AuthenticationRequest.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/controllers/AuthenticationResponse.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/controllers/RegisterRequest.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/models/Role.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/models/User.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/repository/UserRepository.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/services/AuthenticationService.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/services/JwtService.java
+/Users/a1/IdeaProjects/AuthSpring-Application/src/main/java/com/example/AuthSpring_Application/services/SecretKeyProvider.java
