@@ -4,7 +4,7 @@
 
 ## Архитектура приложения
 
-![Spring Security JWT][(https://raw.githubusercontent.com/USERNAME/REPO_NAME/BRANCH/images/security-jwt.png](https://github.com/abo-code-1/AuthSpring-Application/blob/main/AuthSpring-Architecture.png))
+![Spring Security JWT](https://github.com/abo-code-1/AuthSpring-Application/blob/main/AuthSpring-Architecture.png)
 
 ## Возможности
 - Регистрация и вход пользователей с аутентификацией через JWT
